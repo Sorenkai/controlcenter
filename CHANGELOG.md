@@ -1,5 +1,13 @@
 # Changelog
 
+## [7.0.0](https://github.com/Vatsim-Scandinavia/controlcenter/compare/v7.0.0-alpha.11...v7.0.0) (2026-06-21)
+
+
+### Bug Fixes
+
+* **dev:** update sail Docker configuration to PHP 8.4 ([#1537](https://github.com/Vatsim-Scandinavia/controlcenter/issues/1537)) ([4ff5194](https://github.com/Vatsim-Scandinavia/controlcenter/commit/4ff51940bfea9c888bbf6dfa79e016885cff4a40))
+* update Docker configuration to PHP 8.4 ([4ff5194](https://github.com/Vatsim-Scandinavia/controlcenter/commit/4ff51940bfea9c888bbf6dfa79e016885cff4a40))
+
 ## [7.0.0-alpha.11](https://github.com/Vatsim-Scandinavia/controlcenter/compare/v7.0.0-alpha.10...v7.0.0-alpha.11) (2026-06-16)
 
 
